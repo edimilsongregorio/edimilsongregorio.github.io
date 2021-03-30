@@ -1,6 +1,6 @@
-User-Agent: *
-Disallow: 
+User-Agent: * 
 Allow: /index.html
-Disallow: /AboutPageAssets/
+Allow: /AboutPageAssets/
 Allow: /sitemap.xml
+
 Sitemap: https://edimilsongregorio.com.br/sitemap.xml
